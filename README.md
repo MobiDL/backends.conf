@@ -2,7 +2,7 @@
 
 This repository contains some configurations files.
 
-## List of file provided
+## List of configurations provided
 
 - local.conf : a configuration file allowed launch locale
 - slurm.conf : a configuration file allowed launch with slurm
