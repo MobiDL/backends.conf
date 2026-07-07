@@ -8,7 +8,9 @@ This repository contains some configurations files.
 - slurm.conf : a configuration file allowed launch with slurm
 - slurm_apptainer.conf : a configuration file allowed launch with slurm and apptainer
 
-## Added to a new workflow
+## Best Practices
+
+### Added to a new workflow
 
 To improve usability, reproducibility and maintainability, it is recommended that you include this repository in all workflows as follows: 
 `git submodule add https://github.com/MobiDL/backends.conf`
